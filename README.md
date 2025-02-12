@@ -6,7 +6,6 @@
  
 ### 🔭 What I’m working on:
 
-- **🚀 Social Media Scheduler**: A tool to plan, schedule, and automate social media posts across multiple platforms. Features include multi-platform support (Twitter, Instagram, LinkedIn, Facebook), a content calendar, automated posting, and basic analytics. Built with Python (Flask/Django), React.js, and integrated with social media APIs. Deployed on AWS/GCP for scalability.
 
 - Exploring end-to-end data science pipelines, from data cleaning to model deployment.
 
