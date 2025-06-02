@@ -5,9 +5,9 @@
 
  
 ## 🔭 What I’m working on:
-Building AI-powered tools, including RAG-based systems and generative AI applications.
+- Building AI-powered tools, including RAG-based systems and generative AI applications.
 
-Developing backend systems to support intelligent and scalable solutions.
+- Developing backend systems to support intelligent and scalable solutions.
 
 ## 💡 Interests:
 - Generative AI, RAG pipelines, and backend development.
