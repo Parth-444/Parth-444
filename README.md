@@ -4,20 +4,17 @@
 - 🐦 [Twitter](https://x.com/parth_4_xo)
 
  
-### 🔭 What I’m working on:
+## 🔭 What I’m working on:
+Building AI-powered tools, including RAG-based systems and generative AI applications.
 
+Developing backend systems to support intelligent and scalable solutions.
 
-- Exploring end-to-end data science pipelines, from data cleaning to model deployment.
+## 💡 Interests:
+- Generative AI, RAG pipelines, and backend development.
 
-- Building machine learning models for real-world applications.
+- Data visualization, storytelling, and open-source contributions.
 
-### 💡 Interests:
-
-- Data visualization and storytelling.
-
-- Open-source contributions.
-
-- AI/ML, Development.
+- Exploring AI/ML from research to real-world deployment.
 
 ### 📫 Let’s connect!
 Feel free to reach out for collaborations, discussions, or just to chat about data science, AI, or tech in general.
