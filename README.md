@@ -1,4 +1,5 @@
-👋 Hi there! I'm Parth, a passionate data enthusiast and developer with a keen interest in data science, artificial intelligence, and machine learning.
+👋 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I'm Parth, a passionate data enthusiast and developer with a keen interest in data science, artificial intelligence, and machine learning.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/parth-rana-927254208/)
 - 🐦 [Twitter](https://x.com/parth_4_xo)
