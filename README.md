@@ -96,13 +96,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&width=435&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
 </div>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Parth-444&show_icons=true" alt="Parth Rana GitHub stats" />
-</div>
-
-  # made changes here above
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-444&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-444&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Parth-444" />
@@ -112,10 +105,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parth-444&theme=github_dark" alt="Parth's GitHub Contribution"/>
 </div>
 
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/Parth-444/Parth-444/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+# here
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
