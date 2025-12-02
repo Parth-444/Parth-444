@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-444&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="agusain2001" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-444&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Parth-444" />
 </div>
 
 <div align="center">
