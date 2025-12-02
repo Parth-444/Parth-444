@@ -77,11 +77,3 @@
 ---
 
 
-### Master of Computer Applications (MCA)
-**G.B. Pant University of Agriculture & Technology** | 2022 - 2025
-
-### Bachelor of Science (BSc)
-**Kumaon University** | 2018 - 2021
-
----
-
