@@ -97,8 +97,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Parth-444&show_icons=true
-" alt="Parth Rana github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Parth-444&show_icons=true" alt="Parth Rana GitHub stats" />
+</div>
 
   # made changes here above
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-444&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
