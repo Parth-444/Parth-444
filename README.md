@@ -4,11 +4,19 @@
 &nbsp;
 <a href="mailto:parthsinghrana44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-singh71&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Parth's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-singh71&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Parth-444&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Parth-444&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-444&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Parth-444&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Parth-444&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ### A passionate AI/ML developer from India 🇮🇳
