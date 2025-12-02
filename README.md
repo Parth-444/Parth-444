@@ -1,5 +1,9 @@
 # 💫 About Me:
-Building AI-powered tools, including RAG-based systems and generative AI applications.<br>Developing backend systems to support intelligent and scalable solutions.<br>Generative AI, RAG pipelines, and backend development.<br>Data visualization, storytelling, and open-source contributions.<br>Exploring AI/ML from research to real-world deployment.
+- 🚀 Building AI-powered tools — from RAG systems to full-stack generative AI applications.
+- 🧠 Designing intelligent backend architectures that are scalable, efficient, and production-ready.
+- 📚 Specializing in Generative AI, RAG pipelines, and backend engineering to build real-world intelligent systems.
+- 📊 Crafting data visualizations & insightful storytelling, while actively contributing to open-source.
+- 🔬 Exploring AI/ML end-to-end — from research foundations to real-world deployment and impact.
 
 
 ## 🌐 Socials:
