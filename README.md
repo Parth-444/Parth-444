@@ -125,12 +125,11 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Open Source Contributions
 
-### 🎵 Vibing to
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/)
-
+• LlamaIndex
+  - Fixed documentation typo in CONTRIBUTING.md
+  - PR merged by maintainers
 </div>
 
 <details>
