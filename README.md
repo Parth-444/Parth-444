@@ -123,14 +123,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&width=435&lines=%F0%9F%8E%AF+Fun+Zone" alt="Fun Zone" />
 </div>
 
-<div align="center">
-
 ## Open Source Contributions
 
 • LlamaIndex
   - Fixed documentation typo in CONTRIBUTING.md
   - PR merged by maintainers
-</div>
 
 <details>
 <summary><b>📊 GitHub Metrics</b></summary>
