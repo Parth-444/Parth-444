@@ -126,8 +126,7 @@
 ## Open Source Contributions
 
 • LlamaIndex
-  - Fixed documentation typo in CONTRIBUTING.md
-  - PR merged by maintainers
+
 
 <details>
 <summary><b>📊 GitHub Metrics</b></summary>
